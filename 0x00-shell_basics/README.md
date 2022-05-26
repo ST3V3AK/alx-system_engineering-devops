@@ -4,3 +4,5 @@
 3-listfiles: Displays current directory contents in long format
 4-listmorefiles: Displays current directory contents in long format including files starting with (.)
 5-listfilesdigitonly: Displays current directory's content in long format, with user and group ID's and hidden files starting with (.)
+6-firstdirectory: Creates the file my_first_directory in /tmp
+7-movethatfile: Moves the file /tmp/betty to /tmp/my_first_directory
