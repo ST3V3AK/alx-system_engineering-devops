@@ -8,3 +8,8 @@
 7-movethatfile: Moves the file /tmp/betty to /tmp/my_first_directory
 8-firstdelete: Deletes betty from /tmp/my_first_directory
 9-firstdirdeletion: Deletes tmp/my_first_directory
+10-back: Changes your working directory to the previous one
+11-lists: Lists all files (even hidden ones) in long format for your current working directory, its parent directory and /boot
+12-file_type: Displays the file type of /tmp/iamafile
+13-symbolic_link: Uses a symbolic link to connect /bin/ls to _ls_
+14-copy_html: Copies from the surrent working directory every missing '.html' file to its parent directory
