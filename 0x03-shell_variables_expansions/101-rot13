@@ -1,2 +1,2 @@
 #!/bin/bash
-tr {a..m} {n..z}|tr {n..z} {a..m}|tr {A..M} {N..Z}|tr {N..Z} {A..M}
+tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
